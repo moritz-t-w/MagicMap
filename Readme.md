@@ -5,5 +5,5 @@ A collection of usefull remapping scripts meant for the Apple Magic Keyboard, re
 ## How to use:
 
 - [Download](https://www.autohotkey.com/) and install AutoHotKey
-- [Download](https://github.com/moritz-t-w/MagicMap) the remaps you want from this repository
-- Open the `.ahk` files you downloaded.
+- [Download](https://github.com/moritz-t-w/MagicMap/tree/master/bin) the working versions of the remapping executables.
+- Open the `.exe` files that you want to use.
