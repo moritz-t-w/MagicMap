@@ -17,6 +17,11 @@
 		F8::send, {Media_Play_Pause}
 		F9::send, {Media_Next}
 
+	;Volume keys
+		F10::send, {Volume_Mute}
+		F11::send, {Volume_Down}
+		F12::send, {Volume_Up}
+
 ; Functions
 
 	; AdjustScreenBrightness() by krrr (https://gist.github.com/krrr/3c3f1747480189dbb71f)
