@@ -12,7 +12,7 @@
 
 	; F5 & F6 change keyboard backlight brightness
 
-	;Media Keys
+	;Media keys
 		F7::send, {Media_Prev}
 		F8::send, {Media_Play_Pause}
 		F9::send, {Media_Next}
