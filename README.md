@@ -1,6 +1,6 @@
 # Magic Keyboard Remaps with AutoHotKey
 
-A collection of usefull remapping scripts meant for the Apple Magic Keyboard, realized with AutoHotKey.
+A collection of usefull remapping scripts meant for the Apple Magic Keyboards, realized with AutoHotKey.
 
 ## How to use:
 
