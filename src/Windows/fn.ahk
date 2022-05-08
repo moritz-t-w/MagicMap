@@ -3,12 +3,12 @@
 ; Keymaps
 
 	; Brightness keys
-	F1::AdjustScreenBrightness(-10)
-	F2::AdjustScreenBrightness(10)
+		F1::AdjustScreenBrightness(-10)
+		F2::AdjustScreenBrightness(10)
 
 	; Window management keys
-	F3::send, #`t ; send windows+tab for mission controll key
-	F4::send, {LWin} ; send windows key for launchpad
+		F3::send, #`t ; send windows+tab for mission controll key
+		F4::send, {LWin} ; send windows key for launchpad
 
 
 ; Functions
